@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa2f3e3-990f-4c04-9331-767b6caf0db8" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/BestLover.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="6fa2f3e3-990f-4c04-9331-767b6caf0db8" name="Changes" comment="perfect cycle play">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/base.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/favicon.ico" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/base.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -269,7 +261,7 @@
       <workItem from="1700279654615" duration="3670000" />
       <workItem from="1700285578975" duration="761000" />
       <workItem from="1700287018012" duration="76000" />
-      <workItem from="1700290531060" duration="1081000" />
+      <workItem from="1700290531060" duration="2155000" />
     </task>
     <task id="LOCAL-00001" summary="reformat directory">
       <option name="closed" value="true" />
@@ -327,7 +319,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700286886369</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="perfect cycle play">
+      <option name="closed" value="true" />
+      <created>1700291829815</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700291829815</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,6 +351,7 @@
     <MESSAGE value="optimized any codes" />
     <MESSAGE value="optimized codes and dirs" />
     <MESSAGE value="updated" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated" />
+    <MESSAGE value="perfect cycle play" />
+    <option name="LAST_COMMIT_MESSAGE" value="perfect cycle play" />
   </component>
 </project>

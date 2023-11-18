@@ -69,14 +69,14 @@ TimeNum = setInterval(function () {
 const box = document.querySelector('.box');
 
 box.addEventListener('mouseenter', function () {
-  prev.style.display = 'block';
-  next.style.display = 'block';
+  prev.style.visibility = 'visible';
+  next.style.visibility = 'visible';
   clearInterval(TimeNum);
 });
 
 box.addEventListener('mouseleave', function () {
-  prev.style.display = 'none';
-  next.style.display = 'none';
+  prev.style.visibility = 'hidden';
+  next.style.visibility = 'hidden';
   clearInterval(TimeNum);
   TimeNum = setInterval(function () {
     num = nextImg(num);

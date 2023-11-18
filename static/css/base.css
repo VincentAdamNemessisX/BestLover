@@ -28,9 +28,8 @@ li {
     height: 100%;
 }
 
-.box .prev,
-.box .next {
-    display: none;
+.box .prev, .next {
+    visibility: hidden;
     position: absolute;
     top: calc(50%);
     width: 66px;
@@ -40,27 +39,19 @@ li {
     color: rgba(255, 255, 255, 0.5);
     font-size: 45px;
     transition: all 0.3s;
-}
-
-svg {
-    margin-top: -12px;
+    display: inline-flex;
+    align-items: center;
 }
 
 .box .prev {
     left: 45px;
 }
 
-.box .prev, .next {
-    display: inline-flex;
-    align-items: center;
-}
-
 .box .next {
     right: 45px;
 }
 
-.box .prev:hover,
-.box .next:hover {
+.box .prev:hover, .next:hover {
     background-color: #fc6060;
     color: rgb(255, 255, 255);
 }
