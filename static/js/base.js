@@ -19,7 +19,7 @@ const ul = document.querySelector('.box ul');
 // 跳转函数
 function MoveImg(num) {
   ul.style.transition = 'all 0.8s';
-  ul.style.transform = `translateX(${-num * li[0].offsetWidth + 50}px)`;
+  ul.style.transform = `translateX(${-num * li[0].offsetWidth}px)`;
 }
 
 const li_clone = li[0].cloneNode(true);
