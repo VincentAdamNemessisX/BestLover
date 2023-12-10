@@ -2,14 +2,14 @@
 const li = document.querySelectorAll('.box ul li');
 let rdm = Math.floor(Math.random() * 157) + 1;
 for (let i = 0; i < li.length; i++) {
-    let extension;
-	if(rdm > 189) {
-		extension = '.webp';
-	} else {
-        extension = '.png';
-    }
-	li[i].style.background = `url(static/images/ZCY/100${rdm + 1}${extension}) no-repeat center/cover`;
-	rdm++;
+  let extension;
+  if(rdm > 189) {
+    extension = '.webp';
+  } else {
+    extension = '.png';
+  }
+  li[i].style.background = `url(static/images/ZCY/100${rdm + 1}${extension}) no-repeat center/cover`;
+  rdm++;
 }
 
 const ul = document.querySelector('.box ul');
