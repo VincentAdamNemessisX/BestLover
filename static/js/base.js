@@ -1,17 +1,15 @@
 // 加载轮播图的图片
 const li = document.querySelectorAll('.box ul li');
+let rdm = Math.floor(Math.random() * 157) + 1;
 for (let i = 0; i < li.length; i++) {
-  if (i < 9) {
-    li[i].style.background = `url(static/images/郑梓妍/1000${i + 1}.webp) no-repeat center/cover`;
-  } else {
-    if (i < 100) {
-      li[i].style.background = `url(static/images/郑梓妍/100${i + 1}.webp) no-repeat center/cover`;
-    } else {
-      if (i < 1000) {
-        li[i].style.background = `url(static/images/郑梓妍/10${i + 1}.webp) no-repeat center/cover`;
-      }
+    let extension;
+	if(rdm > 189) {
+		extension = '.webp';
+	} else {
+        extension = '.png';
     }
-  }
+	li[i].style.background = `url(static/images/ZCY/100${rdm + 1}${extension}) no-repeat center/cover`;
+	rdm++;
 }
 
 const ul = document.querySelector('.box ul');
@@ -91,18 +89,23 @@ const waterfall = document.querySelector('.waterfall');
 const imgWidth = 220;
 
 // 创建元素
-function creatImg(name, format = '.webp') {
+async function creatImg(name, format = '.png') {
   // 先清空原有图片
   waterfall.innerHTML = '';
-  for (let i = 10001; i < 10036; i++) {
+  for (let i = 1; i <= 225; i++) {
     const img = document.createElement('img');
-    img.src = `static/images/${name}/${(i + 1) + format}`;
+    if(i > 189) {
+      format = '.webp';
+    } else {
+      format = '.png';
+    }
+    img.src = `static/images/${name}/${'100' + (i) + format}`;
     waterfall.appendChild(img);
     img.addEventListener('load', layout);
   }
 }
 
-creatImg('郑梓妍');
+creatImg('ZCY');
 // window.addEventListener('load', layout);
 window.addEventListener('resize', layout);
 // 点击事件：冒泡
@@ -113,12 +116,12 @@ nav.addEventListener('click', function (e) {
     document.querySelector('.nav ul li.active').classList.remove('active');
     document.querySelector(`.nav ul li:nth-child(${n})`).classList.add('active');
     let name = e.target.dataset.name;
-    if (name === '郑梓妍') creatImg(name);
+    if (name === 'ZCY') creatImg(name);
   }
 });
 
 // 布局
-function layout() {
+async function layout() {
   function getinfo() {
     let waterfallWidth = waterfall.offsetWidth;
     let column = Math.floor(waterfallWidth / imgWidth);

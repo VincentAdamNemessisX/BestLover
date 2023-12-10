@@ -4,15 +4,252 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fa2f3e3-990f-4c04-9331-767b6caf0db8" name="Changes" comment="perfect cycle play">
+    <list default="true" id="6fa2f3e3-990f-4c04-9331-767b6caf0db8" name="Changes" comment="resolve animation of button moved no ruled">
+      <change afterPath="$PROJECT_DIR$/auto_save_pictures_from_weibo/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_save_pictures_from_weibo/weibo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1001.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10010.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100101.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100102.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100103.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100104.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100105.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100106.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100107.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100108.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100109.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10011.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100110.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100111.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100112.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100113.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100114.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100115.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100116.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100117.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100118.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100119.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100120.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100121.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100122.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100123.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100124.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100125.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100126.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100127.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10013.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100130.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100131.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100132.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100133.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100134.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100135.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100136.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100137.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100138.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100139.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10014.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100140.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100141.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100142.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100143.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100144.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100145.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100146.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100147.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100148.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100149.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10015.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100151.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100152.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100153.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100154.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100155.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100156.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100157.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100158.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100159.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10016.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100160.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100161.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100162.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100163.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100164.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100165.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100166.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100167.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100168.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100169.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10017.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100170.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100171.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100172.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100173.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100174.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100175.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100176.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100177.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100178.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100179.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10018.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100180.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100181.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100182.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100183.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100184.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100185.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100186.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100187.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100188.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/100189.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10019.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10020.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10021.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10022.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10023.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10024.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10025.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10026.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10027.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10028.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10029.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1003.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10030.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10031.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10032.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10033.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10034.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10035.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10036.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10037.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10038.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10039.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1004.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10040.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10041.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10042.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10043.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10044.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10045.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10046.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10047.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10048.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10049.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1005.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10050.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10051.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10052.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10053.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10054.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10055.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10057.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10058.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10059.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1006.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10060.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10061.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10062.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10063.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10064.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10065.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10066.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10067.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10068.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10069.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1007.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10070.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10071.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10072.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10073.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10074.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10075.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10076.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10077.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10078.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10079.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1008.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10080.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10081.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10082.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10083.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10084.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10085.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10086.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10087.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10088.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10089.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/1009.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10090.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10091.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10092.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10093.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10096.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10097.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10098.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/ZCY/10099.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_11_18,_3_05_PM_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_2023_11_18__3_05_PM__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10001.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100190.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10002.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100191.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10003.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100192.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10004.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100193.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10005.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100194.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10006.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100195.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10007.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100196.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10008.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100197.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10009.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100198.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10010.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100199.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10011.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100200.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10012.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100201.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10013.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100202.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10014.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100203.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10015.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100204.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10016.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100205.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10017.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100206.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10018.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100207.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10019.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100208.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10020.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100209.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10021.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100210.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10022.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100211.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10023.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100212.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10024.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100213.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10025.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100214.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10026.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100215.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10027.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100216.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10028.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100217.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10029.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100218.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10030.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100219.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10031.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100220.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10032.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100221.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10033.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100222.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10034.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100223.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10035.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100224.webp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/images/郑梓妍/10036.webp" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/ZCY/100225.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/js/base.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/js/base.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -70,22 +307,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/vincent/Documents/ProgramCodes/Python/DjangoProjects/BestLover/static/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "project.scopes",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vincent/Documents/ProgramCodes/Python/DjangoProjects/BestLover/static/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.scopes&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/static/images" />
@@ -146,6 +384,29 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BestLover" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="crawler" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/auto_save_pictures_from_weibo" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/auto_save_pictures_from_weibo/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,7 +522,9 @@
       <workItem from="1700279654615" duration="3670000" />
       <workItem from="1700285578975" duration="761000" />
       <workItem from="1700287018012" duration="76000" />
-      <workItem from="1700290531060" duration="2155000" />
+      <workItem from="1700290531060" duration="2451000" />
+      <workItem from="1702198823252" duration="661000" />
+      <workItem from="1702205807679" duration="3615000" />
     </task>
     <task id="LOCAL-00001" summary="reformat directory">
       <option name="closed" value="true" />
@@ -327,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700291829815</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="resolve animation of button moved no ruled">
+      <option name="closed" value="true" />
+      <created>1700293291432</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1700293291432</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +616,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="reformat directory" />
     <MESSAGE value="reformat page with bootstrap and button's icon" />
     <MESSAGE value="reformat files' space indent and px values" />
@@ -352,6 +624,7 @@
     <MESSAGE value="optimized codes and dirs" />
     <MESSAGE value="updated" />
     <MESSAGE value="perfect cycle play" />
-    <option name="LAST_COMMIT_MESSAGE" value="perfect cycle play" />
+    <MESSAGE value="resolve animation of button moved no ruled" />
+    <option name="LAST_COMMIT_MESSAGE" value="resolve animation of button moved no ruled" />
   </component>
 </project>
